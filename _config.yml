@@ -1,6 +1,6 @@
 
 # Syntax highlighting
-markdown:            redcarpet
+# markdown:            redcarpet  # github says it is not supported anymore
 highlighter:         pygments
 
 # Permalinks
@@ -13,8 +13,8 @@ name:				         Nodel Films Production
 title:               site title
 tagline:             'tagline'
 description:         'description'
-url:                 https://www.nodelfilms.com
-rss:                 rss feed url
+url:                 http://www.nodelfilms.com
+rss:                 http://www.nodelfilms.com/feed.xml
 baseurl:             '/'
 baseurl_posts_img:   '/assets/images/posts/'
 baseurl_featured_img: '/assets/images/hero/'
@@ -24,7 +24,7 @@ icon:                assets/img/icon.png # [best 300px X 300px]
 disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
 author:
-  name:           	 your name
+  name:           	 Helen Nodel
   url:            	 https://www.nodelfilms.com
   facebook:          username
   twitter:           username
