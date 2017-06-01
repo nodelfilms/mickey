@@ -1,7 +1,7 @@
 
 # Syntax highlighting
 # markdown:            redcarpet  # github says it is not supported anymore
-highlighter:         pygments
+highlighter:         rouge # pygments is not supported by girhub anymore
 
 # Permalinks
 permalink:           /:title
