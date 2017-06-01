@@ -13,7 +13,7 @@ name:				         Nodel Films Production
 title:               site title
 tagline:             'tagline'
 description:         'description'
-url:                 site url
+url:                 https://www.nodelfilms.com
 rss:                 rss feed url
 baseurl:             '/'
 baseurl_posts_img:   '/assets/images/posts/'
@@ -25,7 +25,7 @@ disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
 author:
   name:           	 your name
-  url:            	 your site url
+  url:            	 https://www.nodelfilms.com
   facebook:          username
   twitter:           username
   google_plus:       username
