@@ -18,6 +18,4 @@ Wow! That was largest amount of actors we ever filmed before in one short film -
 
 Some more text here
 
-<blockquote class="u--startsWithDoubleQuote">“Dear Lena! That was so great, I will never, never forget this!” <br/>- One of the pupils</blockquote>
-
 Some more text here			
