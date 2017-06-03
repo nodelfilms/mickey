@@ -18,8 +18,12 @@ Wow! That was largest amount of actors we ever filmed before in one short film -
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}liceum-boy-girl.jpg);"></div>
 
-Some more text here
+Film is based on the cover of Snoop Dog's "Drop it like it's hot", however we wrote completely different lyrics "Ode to Lyceum" with some references to Alexaned Pushkin "Ode to Lyceum" and humor and irony about dayly life of Liceum's pupils.
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}liceum-snoop.jpg);"></div>
 
-Some more text here			
+Song was performed in professional recording studio.
+
+Here's the result:
+
+<iframe width="420" height="315" src="https://youtu.be/Cea_QDqHjns" frameborder="0" allowfullscreen></iframe>
