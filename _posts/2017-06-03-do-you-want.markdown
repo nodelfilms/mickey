@@ -4,6 +4,8 @@ title:  "Did you ever dream to become a movie star?"
 date:   2017-06-03 01:00:00
 last_modified_at:  2017-06-03 01:00:00
 excerpt: "Imagine you can play main character in a movie. We can make this dream a reality for you."
+categories: film
+tags:  film
 image:
   feature: steamboat.jpg
   topPosition: -50px
