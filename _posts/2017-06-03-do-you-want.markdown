@@ -8,7 +8,7 @@ categories: Production
 tags:  Production
 image:
   feature: filmmaking.jpg
-  topPosition: -50px
+  topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no

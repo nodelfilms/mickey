@@ -8,7 +8,7 @@ categories: Production
 tags:  Production
 image:
   feature: talant-picasso.jpg
-  topPosition: -50px
+  topPosition: 0px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
@@ -16,4 +16,4 @@ syntaxHighlighter: no
 
 So far our largest project is now at the final stages. 
 
-<blockquote class="largeQuote">“All our dreams can come true, if we have the courage to pursue them.” - Walt Disney</blockquote>
+<blockquote class="largeQuote">"All our dreams can come true, if we have the courage to pursue them." - Walt Disney</blockquote>
