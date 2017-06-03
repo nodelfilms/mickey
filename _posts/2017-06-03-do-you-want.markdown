@@ -16,8 +16,6 @@ syntaxHighlighter: no
 
 Looking for very specail gift idea to someone who has everything alredy? Can't come up with team building idea that is not boring? Want to make your 25-th wedding anniversary very special? We think we have great idea for you. **A movie**. Not just some movie, but one where you are the star.
 
-<blockquote class="largeQuote">“All our dreams can come true, if we have the courage to pursue them.” - Walt Disney</blockquote>
-
 We will write for you a story based on your ideas and make a film where you and your friends or colleagues are acting. It can be anything - remake of popular musical video, 15-minutes drama, scene from zombie apocalipse, spy thriller, or sweet story how you and your spouse met each other that you want to share with your children.
 
 Our professional filmmaking team will organize everithing so you can dive into this magic of cinema and be part of it. Everyone who had participated in our projects before feel very inspired and remember this as very special moment of thier life. But even more, there is now a movie that they can watch again and again, share with thier friends on social networks and collects unlimited likes.
