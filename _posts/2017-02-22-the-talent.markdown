@@ -14,6 +14,7 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
+<blockquote class="largeQuote">&#8220;All our dreams can come true, if we have the courage to pursue them.&#8222; - Walt Disney</blockquote>
+
 So far our largest project is now at the final stages. 
 
-<blockquote class="largeQuote">"All our dreams can come true, if we have the courage to pursue them." - Walt Disney</blockquote>
