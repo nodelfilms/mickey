@@ -16,12 +16,8 @@ syntaxHighlighter: no
 
 Wow! That was largest amount of actors we ever filmed before in one short film - 44! And this is not including the film crew. Hardest part was filming in the class. Unlike dancing part, here everyone need to sit still and do exactly what they been told to do. Well, for children that is a challenge. But we did it!
 
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}liceum-boy-girl.jpg);"></div>
-
 Some more text here
 
 <blockquote class="u--startsWithDoubleQuote">“Dear Lena! That was so great, I will never, never forget this!” <br/>- One of the pupils</blockquote>
 
-Some more text here		
-
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}liceum-snoop.jpg);"></div>
+Some more text here			
