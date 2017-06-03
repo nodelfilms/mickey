@@ -26,4 +26,4 @@ Song was performed in professional recording studio.
 
 Here's the result:
 
-<iframe width="420" height="315" src="https://youtu.be/Cea_QDqHjns" frameborder="0" allowfullscreen> </iframe>
+<iframe width="670" height="377" src="https://www.youtube.com/embed/Cea_QDqHjns" frameborder="0" allowfullscreen> </iframe>
