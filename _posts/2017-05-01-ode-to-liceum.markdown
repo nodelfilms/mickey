@@ -18,6 +18,10 @@ Wow! That was largest amount of actors we ever filmed before in one short film -
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}liceum-boy-girl.jpg);"></div>
 
+Some more text here
+
 <blockquote class="u--startsWithDoubleQuote">“Dear Lena! That was so great, I will never, never forget this!” <br/>- One of the pupils</blockquote>
+
+Some more text here		
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}liceum-snoop.jpg);"></div>
