@@ -23,6 +23,23 @@ title: Nodel Films Production
   <div class="container">
     <div class="blockGroup">
       <ul class="blockGroup-list">
+
+	  <!-- Permanenly placed block -->
+          <li class="block">
+            <div class="postArticle-wrapper">
+              <article class="postArticle postArticle--short">
+                  <a href="{{ site.baseurl }}film/">
+                    <div class="postArticle-image desaturate" style="background-image:url('{{site.baseurl}}assets/images/hero/filmmaking.jpg')">
+                    </div>
+                  </a>
+                <a class="postArticle-title" href="{{site.baseurl}}film/">Did you ever dream to become a movie star?</a>
+              </article>
+              <div class="block-postMeta"> </div>
+            </div>
+          </li>
+
+
+	<!-- Actual blog posts -->
         {% for post in site.posts %}
           <li class="block">
             <div class="postArticle-wrapper">
@@ -44,6 +61,7 @@ title: Nodel Films Production
             </div>
           </li>
         {% endfor %}
+
       </ul>
     </div>
   </div>

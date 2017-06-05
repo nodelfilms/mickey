@@ -10,7 +10,7 @@ permalink:           /:title
 timezone:            your timezone # eg. Asia/Kathmandu
 locale:              en_us
 name:				         Nodel Films Production
-title:               site title
+title:               Nodel Films Production
 tagline:             'tagline'
 description:         'description'
 url:                 http://www.nodelfilms.com
@@ -24,7 +24,7 @@ icon:                assets/img/icon.png # [best 300px X 300px]
 disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
 author:
-  name:              Helen Nodel
+  name:              Elena Nodel
   url:               https://www.nodelfilms.com
   facebook:          lenanodel
   twitter:           username
