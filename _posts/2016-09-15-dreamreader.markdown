@@ -14,9 +14,13 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-TBD. 
+#### Concept
 
-#### Childhood
+TBD...
+
+<blockquote class="u--startsWithDoubleQuote">&#8220;That was the best teambuilding we ever had. We should do that again! &#8221; <br/>- Employee</blockquote>
+
+TBD...
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}dreamreader-alex.jpg);"></div>
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}dreamreader-progressbar.jpg);"></div>
@@ -24,6 +28,5 @@ TBD.
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}dreamreader-heavy.jpg);"></div>
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}dreamreader-ladies.jpg);"></div>
 
-<blockquote class="u--startsWithDoubleQuote">&#8220;Mickey Mouse popped out of my mind onto a drawing pad 20 years ago on a train ride from Manhattan to Hollywood at a time when business fortunes of my brother Roy and myself were at lowest ebb and disaster seemed right around the corner.&#8221; <br/>- Walt Disney</blockquote>
 
 
