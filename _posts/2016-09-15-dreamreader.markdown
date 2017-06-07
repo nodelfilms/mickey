@@ -19,7 +19,7 @@ TBD.
 #### Childhood
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}dreamreader-alex.jpg);"></div>
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}dreamreader-progressbar);"></div>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}dreamreader-progressbar.jpg);"></div>
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}dreamreader-cat.jpg);"></div>
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}dreamreader-heavy.jpg);"></div>
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}dreamreader-ladies.jpg);"></div>
