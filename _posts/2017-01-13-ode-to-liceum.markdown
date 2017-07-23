@@ -18,7 +18,9 @@ Wow! That was largest amount of actors we ever filmed before in one short film -
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}liceum-boy-girl.jpg);"></div>
 
-Film is based on the cover of famous "Drop it like it's hot" by Snoop Dog and Pharrell Williams, however we wrote completely different lyrics "Ode to Lyceum" with some references to Alexaned Pushkin "Ode to Lyceum" and humor and irony about dayly life of Liceum's pupils.
+Film is based on the cover of famous &#8220;Drop it like it's hot&#8221; by Snoop Dog and Pharrell Williams,
+however we wrote completely different lyrics &#8220;Ode to Lyceum&#8221; with some references to Alexander Pushkin 
+&#8220;Ode to Lyceum&#8221; and humor and irony about daily life of Lyceum's schoolchildren.
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}liceum-snoop.jpg);"></div>
 
@@ -26,7 +28,7 @@ Song was performed in professional recording studio. Kudos to Stas Svintsov for 
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}liceum-studio.jpg);"></div>
 
-Most of the action were shoot at so-called "Cyclorama" - a white Chorma Key studio that is build the way there is no visible threshold between background walls and the floor.
+Most of the action were shoot at so-called &#8220;Cyclorama&#8221; - a white Chorma Key studio that is build the way there is no visible threshold between background walls and the floor.
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}liceum-cyclorama.jpg);"></div>
 
