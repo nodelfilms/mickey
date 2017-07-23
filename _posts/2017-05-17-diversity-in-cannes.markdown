@@ -14,9 +14,9 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-Press-release: http://mailchi.mp/f9cab0590759/2017diversityincannesofficialselectionsupdated1
+Official <a href="http://mailchi.mp/f9cab0590759/2017diversityincannesofficialselectionsupdated1">press-release.</a>
 
-Officcial web site of the festival: http://diversityincannes.com/
+Officcial <a href="http://diversityincannes.com/">web site of the festival.</a>
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}diversity-photo.jpg);"></div>
 
