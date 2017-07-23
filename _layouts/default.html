@@ -6,13 +6,20 @@
   {% endcomment %}
 
   <body>
+
+  {% comment %}
+
     {% if page.url != '/' %}
       <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
       {% include sidebar-nav.html %}
       {% include menu.html %}
     {% endif %}
 
+  {% endcomment %}
+
     {{ content }}
+
+  {% comment %}
 
     {% if page.url != '/' %}
       {% include sidebar-toggle.html %}
@@ -24,5 +31,8 @@
     {% endif %}
 
     {% include footer-scripts.html %}
+
+  {% endcomment %}
+
   </body>
 </html>
