@@ -14,7 +14,7 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-We are proud to announce that our short film “The Talent” was selected to be screened at Short Films Corner during Cannes Festival 2017.
+We are proud to announce that our short film &#8220;The Talent&#8221; was selected to be screened at Short Films Corner during Cannes Festival 2017.
 
 We had multiple fruitful meetings with filmmakers and film distributors from all over the world.
 
