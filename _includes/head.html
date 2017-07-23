@@ -22,7 +22,7 @@
   {% if page.previous.url %}
     <link rel="prev" href="{{ page.previous.url | replace:'index.html','' | prepend: site.url }}" title="{{ page.previous.title }}">
   {% else %}
-    <link rel="prev" href="{{ site.url }}" title="{{ page.previous.title }}">
+    <link rel="prev" href="{{ site.url }}" title="{{ site.url }}">
   {% endif %}
 
   <!-- Twitter card -->
