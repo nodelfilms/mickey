@@ -17,6 +17,8 @@ syntaxHighlighter: no
 <blockquote class="largeQuote">&#8220;The Talent is a film which is full of compassion and tenderheartedness for me. I was very surprised by the way this film touched my heart by its simple execution and profoundly emotional story.&#8221;
 <br/> - Venika Mitra, Film Director, India</blockquote>
 
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}talant-screenshot.png);"></div>
+
 <blockquote class="u--startsWithDoubleQuote">
 &#8216;This is an interesting modern fairytale&#8217;.<br/><br/>
 
@@ -34,4 +36,3 @@ Short film &#8220;The Talent&#8221; can be named a true &#8220;art-house&#8221; 
 director, producer of the film and even wrote a song by herself. 
 Elena is proud that  people who watched her film feel that &#8220;The Talent&#8221;
 gives creative energy and inspiration.
-
