@@ -14,4 +14,8 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-TBD. 
+We are proud to announce that our short film “The Talent” was selected to be screened at Short Films Corner during Cannes Festival 2017.
+
+We had multiple fruitful meetings with filmmakers and film distributors from all over the world.
+
+Pictures from Cannes (Japanese and Indian Filmmakers, stairs on Palais des Festivals)
