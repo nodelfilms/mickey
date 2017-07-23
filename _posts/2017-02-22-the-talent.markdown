@@ -14,7 +14,22 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-<blockquote class="largeQuote">&#8220;All our dreams can come true, if we have the courage to pursue them.&#8221; - Walt Disney</blockquote>
+<blockquote class="largeQuote">&#8220;The Talent is a film which is full of compassion and tenderheartedness for me. I was very surprised by the way this film touched my heart by its simple execution and profoundly emotional story.&#8221; <br/> - Venika Mitra, Film Director, India</blockquote>
 
-So far our largest project is now at the final stages. 
+<blockquote class="u--startsWithDoubleQuote">
+&#8216;This is an interesting modern fairytale&#8217;.<br/>
+
+&#8216;I was really drawn into this film because I wanted to figure out the catch. When it was finally revealed it warmed my heart. A good feel film that makes one reflect on his/her own talents&#8217;.<br/>
+&#8216;Lovely film starring actors who are over the age of 40. Refreshing to see this done with the casting!&#8217;<br/>
+
+&#8216;Enjoyable, with a nice message about belief in one's self&#8217;.<br/>
+
+&#8216;I enjoyed this film from the dialogue and performances to the music and the message. Different from what I've seen. Very original and creative&#8217;.<br/>
+
+<br/> - Members of screening committee of &#8220;Beyond Borders: Diversity in Cannes Short Film Showcase&#8221;</blockquote>
+
+Short film &#8220;The Talent&#8221; can be named a true &#8220;art-house&#8221; as  Elena Nodel was screenwriter, 
+director, producer of the film and even wrote a song by herself. 
+Elena is proud that  people who watched her film feel that &#8220;The Talent&#8221;
+gives creative energy and inspiration.
 
