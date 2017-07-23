@@ -16,6 +16,7 @@ description:         'description'
 url:                 http://www.nodelfilms.com
 rss:                 http://www.nodelfilms.com/feed.xml
 baseurl:             '/'
+base-url:            '/'
 baseurl_posts_img:   '/assets/images/posts/'
 baseurl_featured_img: '/assets/images/hero/'
 baseurl_featured_thumbnail: '/assets/images/thumbnail/'
