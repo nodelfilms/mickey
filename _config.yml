@@ -13,8 +13,8 @@ locale:              en_us
 name:                Nodel Films Production
 
 title:
-	en:	     a film production company
-	ru:	     'кинокомпания'
+ en:	             a film production company
+ ru:	             'test1'
 
 tagline:             'tagline'
 description:         'description'
