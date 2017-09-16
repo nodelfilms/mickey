@@ -1,7 +1,13 @@
+{% if page.lang != 'en' %}
+   {% assign linkback = site.base-url | append: page.lang | append: '/' %}
+{% else %}
+   {% assign linkback = site.base-url %}
+{% endif %}
+
 <nav class="menuWrapper">
   <ul class="popover popover--menu">
     <li class="menu-avatar">
-      <a href="{{ site.base-url }}" class="brandLogo brandLogo--small
+      <a href="{{ linkback }}" class="brandLogo brandLogo--small
       {% if page.bgContrast == "light" %}
         brandLogo--black
       {% endif %}
