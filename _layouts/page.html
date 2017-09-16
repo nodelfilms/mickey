@@ -40,7 +40,7 @@ layout: default
   </section>
   <footer class="postFooter">
     {% if page.readnext %}
-      {% assign p = site.pages | where:"ref",page.readnext | where:"lang",page.lang | first %}
+      {% assign p = site.pages | where:"ref", page.readnext | where:"lang", page.lang | first %}
       <section class="section--prePost is-darkBackgrounded u-table">
         <div class="section-backgroundImage section-backgroundImage--previousPage">
           <img class="post-featuredImage" src="{{ p.image | prepend: site.baseurl_featured_img }}" style="top:0" alt="">
