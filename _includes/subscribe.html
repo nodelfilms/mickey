@@ -1,5 +1,7 @@
 <section class="section--subscribe">
   <div class="container container--content">
+
+
     {% if page.lang == "ru" %}
       <h3 class="u-alignCenter">Свяжитесь с нами</h3>
       <p>
@@ -9,7 +11,7 @@
         или вдохновляющим тимбилдингом. Свяжитесь со мной по электронной почте <a href="mailto:director@nodelfilms.com">director@nodelfilms.com</a> 
         или в социальных сетях по ссылкам ниже.
       </p>
-    {% if page.lang == "en" %}
+    {% else %}
       <h3 class="u-alignCenter">Stay in touch</h3>
       <p>
         Hi, I'm <a href="{{ site.base-url }}about/">Elena Nodel</a>, filmmaker and founder of Nodel Films.
@@ -20,11 +22,19 @@
       </p>
     {% endif %}
 
-    {% comment %}
+
     {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
     {% for post in posts %}
+       {% if post.lang == page.lang %}
+       {% else %}
+          {% if post.lang == "ru" %}
+              <h6 class="u-alignCenter"><a href="{{ post.url }}">Перейти на русскую версию</a></h6>
+          {% elsif post.lang == "en" %}
+              <h6 class="u-alignCenter"><a href="{{ post.url }}">Switch to English website</a></h6>
+          {% endif %}
+       {% endif %}
     {% endfor %}
-    {% endcomment %}
+
 
     {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
     {% for pg in pages %}
