@@ -9,8 +9,13 @@ permalink:           /:title
 # Setup
 timezone:            your timezone # eg. Asia/Kathmandu
 locale:              en_us
+
 name:                Nodel Films Production
-title:               Nodel Films Production
+
+title:
+	en:	     a film production company
+	ru:	     кинокомпания
+
 tagline:             'tagline'
 description:         'description'
 url:                 http://www.nodelfilms.com
