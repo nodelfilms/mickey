@@ -27,8 +27,7 @@ ref: index
       <ul class="blockGroup-list">
 
 	  <!-- Permanenly placed block #1 -->
-          {% assign pages=site.pages | where:"ref","order_your_film" %}
-          {% assign p=pages[0] %}
+          {% assign p = site.pages | where:"ref","order_your_film" | where:"lang",page.lang | first %}
           <li class="block">
             <div class="postArticle-wrapper">
               <article class="postArticle postArticle--short">

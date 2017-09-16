@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Nodel Films Production
-lang: ru
+lang: en
 ref: index
 ---
 
@@ -27,12 +27,12 @@ ref: index
       <ul class="blockGroup-list">
 
 	  <!-- Permanenly placed block #1 -->
-          {% assign p=site.pages | where:"lang", page.lang | where:"ref", "order_your_film" %}
+          {% assign p = site.pages | where:"ref","order_your_film" | where:"lang",page.lang | first %}
           <li class="block">
             <div class="postArticle-wrapper">
               <article class="postArticle postArticle--short">
                   <a href="{{ p.url }}">
-                    <div class="postArticle-image desaturate" style="background-image:url('{{ p.image.feature | prepend: site.baseurl_featured_img }}')">
+                    <div class="postArticle-image desaturate" style="background-image:url('{{ p.image | prepend: site.baseurl_featured_img }}')">
                     </div>
                   </a>
                 <a class="postArticle-title" href="{{ p.url }}">{{ p.title }}</a>
