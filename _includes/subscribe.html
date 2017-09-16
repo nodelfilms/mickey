@@ -1,13 +1,24 @@
 <section class="section--subscribe">
   <div class="container container--content">
-    <h3 class="u-alignCenter">Stay in touch</h3>
-    <p>
-      Hi, I'm <a href="{{ site.base-url }}about/">Elena Nodel</a>, filmmaker and founder of Nodel Films.
-      We specialize on <a href="{{ site.base-url }}order_your_film/">making short movies for people and organizations</a>
-      that can become special event in your life or team building you will never forget.
-      Feel free to contact me on my e-mail <a href="mailto:director@nodelfilms.com">director@nodelfilms.com</a> 
-      or find me on the social networks below.
-    </p>
+    {% if page.lang == "ru" %}
+      <h3 class="u-alignCenter">Свяжитесь с нами</h3>
+      <p>
+        Здравствуйте, я <a href="{{ site.base-url }}ru/about/">Елена Нодель</a>, фильммейкер и основатель Nodel Films.
+        Основное направление нашей работы -<a href="{{ site.base-url }}ru/order_your_film/">короткометражные фильмы и музыкальные видео</a>,
+        которые мы снимем специально для вас и с вашим участием. Такая съемка станет незабываемым событием в вашей жизни
+        или вдохновляющим тимбилдингом. Свяжитесь со мной по электронной почте <a href="mailto:director@nodelfilms.com">director@nodelfilms.com</a> 
+        или в социальных сетях по ссылкам ниже.
+      </p>
+    {% if page.lang == "en" %}
+      <h3 class="u-alignCenter">Stay in touch</h3>
+      <p>
+        Hi, I'm <a href="{{ site.base-url }}about/">Elena Nodel</a>, filmmaker and founder of Nodel Films.
+        We specialize on <a href="{{ site.base-url }}order_your_film/">making short movies for people and organizations</a>
+        that can become special event in your life or team building you will never forget.
+        Feel free to contact me on my e-mail <a href="mailto:director@nodelfilms.com">director@nodelfilms.com</a> 
+        or find me on the social networks below.
+      </p>
+    {% endif %}
 
     {% comment %}
     {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
