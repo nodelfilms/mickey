@@ -27,16 +27,17 @@ ref: index
       <ul class="blockGroup-list">
 
 	  <!-- Permanenly placed block #1 -->
+          {% assign p=site.pages | where:"lang", page.lang | where:"ref", "order_your_film" %}
           <li class="block">
             <div class="postArticle-wrapper">
               <article class="postArticle postArticle--short">
-                  <a href="{{ site.base-url }}order_your_film/">
-                    <div class="postArticle-image desaturate" style="background-image:url('{{site.base-url}}assets/images/hero/filmmaking.jpg')">
+                  <a href="{{ p.url }}">
+                    <div class="postArticle-image desaturate" style="background-image:url('{{ p.image | prepend: site.baseurl_featured_img }}')">
                     </div>
                   </a>
-                <a class="postArticle-title" href="{{site.base-url}}order_your_film/">Did you ever dream to become a movie star?</a>
+                <a class="postArticle-title" href="{{ p.url }}">{{ p.title }}</a>
               </article>
-              <div class="block-postMeta">We can make this dream come true!</div>
+              <div class="block-postMeta">{{ p.slogan }}</div>
             </div>
           </li>
 

@@ -1,22 +1,24 @@
 ---
 layout: default
-title:  "Did you ever dream to become a movie star?"
+title:  'Did you ever dream to become a movie star?'
+slogan: 'We can make this dream come true!'
+image:  filmmaking.jpg
 lang: en
 ref: order_your_film
 ---
 <article class="postWrapper">
   <section class="section--first section--about is-darkBackgrounded u-table">
     <div class="section-backgroundImage">
-        <img class="post-featuredImage" src="{{site.base-url}}assets/images/hero/filmmaking.jpg" style="" alt="">
+        <img class="post-featuredImage" src="{{ page.image | prepend: site.baseurl_featured_img }}" style="" alt="">
     </div>
     <div class="section-gradient"></div>
     <div class="section-title is-darkBackgrounded u-tableCell u-verticalAlignMiddle">
       <div class="container">
-        <h2>Did you ever dream to become a movie star?</h2>
+        <h2>{{ page.title }}</h2>
         <div class="postMeta-wrapper">
           <ul class="postMeta">
             <li class="postMeta-author">
-              We can make this dream come true!
+              {{ page.slogan }}
             </li>
           </ul>
         </div>
