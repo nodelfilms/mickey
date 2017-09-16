@@ -1,7 +1,7 @@
 ---
 layout:            post
-title:             DreamReader
-lang:              en
+title:             Ролик DreamReader
+lang:              ru
 ref:               DreamReader
 date:              2016-09-15 01:00:00
 last_modified_at:  2017-06-08 01:00:00

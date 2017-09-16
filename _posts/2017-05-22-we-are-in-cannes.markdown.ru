@@ -1,7 +1,7 @@
 ---
 layout:            post
-title:             "We are in Cannes"
-lang:              en
+title:             "Мы в Каннах!"
+lang:              ru
 lang:              talant_cannes
 date:              2017-05-22 01:00:00
 last_modified_at:  2017-06-04 01:00:00

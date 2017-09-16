@@ -1,7 +1,8 @@
 <nav role="navigation" class="sidebar sidebar--right">
   <a href="{{site.base-url}}" class="textLogo textLogo--white textLogo--sidebar">{{ site.name }}</a>
   <ul class="sidebar-recentPosts">
-    {% for post in site.posts offset:0 limit:10 %}
+    {% assign posts = site.posts | where:"lang", page.lang %}
+    {% for post in posts offset:0 limit:10 %}
       {% if post.title == page.title %}
         <!-- exclude current post -->
       {% else %}

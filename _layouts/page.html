@@ -48,7 +48,11 @@ layout: default
         <div class="section-gradient section-gradient--lighter"></div>
         <div class="section-title u-tableCell u-verticalAlignMiddle">
           <div class="container">
-            <h4>Read next:</h4>
+            {% if page.lang == "ru" %}
+               <h4>Читать далее:</h4>
+            {% else %}
+               <h4>Read next:</h4>
+            {% endif %}
             <a class="prev" href="{{ p.url }}"><h2>{{ p.title }}</h2></a>
           </div>
         </div>

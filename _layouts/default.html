@@ -4,7 +4,7 @@
   {% include head.html %}
 
   <body>
-    {% if page.url != '/' %}
+    {% if page.ref != 'index' %}
       <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
       {% include sidebar-nav.html %}
       {% include menu.html %}
@@ -12,11 +12,9 @@
 
     {{ content }}
 
-    {% if page.url != '/' %}
+    {% if page.ref != 'index' %}
       {% include sidebar-toggle.html %}
-    {% endif %}
-
-    {% if page.ref == 'index' %}
+    {% else %}
       {% include subscribe.html %}
       {% include footer.html %}
     {% endif %}

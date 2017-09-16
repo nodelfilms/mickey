@@ -1,7 +1,7 @@
 ---
 layout:             post
-title:              "Ode to Liceum"
-lang:               en
+title:              "Ода Лицею"
+lang:               ru
 ref:                OdeToLiceum
 date:               2017-01-13 01:00:00
 last_modified_at:   2017-06-04 01:00:00

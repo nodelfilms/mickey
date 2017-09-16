@@ -58,7 +58,7 @@ ref:    index
           </li>
 
 	<!-- Actual blog posts -->
-        {% for post in site.posts %}
+        {% for post in site.posts | where:"lang", page.lang %}
           <li class="block">
             <div class="postArticle-wrapper">
               <article class="postArticle postArticle--short">
