@@ -14,7 +14,7 @@ name:                Nodel Films Production
 
 title:
 	en:	     a film production company
-	ru:	     кинокомпания
+	ru:	     'кинокомпания'
 
 tagline:             'tagline'
 description:         'description'
