@@ -10,6 +10,25 @@
     </p>
 
     {% comment %}
+    {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+    {% for post in posts %}
+    {% endfor %}
+    {% endcomment %}
+
+    {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+    {% for pg in pages %}
+       {% if pg.lang == page.lang %}
+       {% else %}
+          {% if pg.lang == "ru" %}
+              <h6 class="u-alignCenter"><a href="{{ pg.url }}">Перейти на русскую версию</a></h6>
+          {% elsif pg.lang == "en" %}
+              <h6 class="u-alignCenter"><a href="{{ pg.url }}">Switch to English website</a></h6>
+          {% endif %}
+       {% endif %}
+    {% endfor %}
+
+
+    {% comment %}
 
     <div class="newsletterForm-wrapper">
       <!-- Begin MailChimp Signup Form -->
