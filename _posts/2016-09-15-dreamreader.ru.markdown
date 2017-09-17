@@ -1,6 +1,6 @@
 ---
 layout:            post
-title:             'DreamReader - ролик на празднование дня рождения IT-компании'
+title:             '&#8220;DreamReader&#8221; - ролик на празднование дня рождения IT-компании'
 lang:              ru
 ref:               DreamReader
 date:              2016-09-15 01:00:00

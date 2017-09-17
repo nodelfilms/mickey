@@ -1,6 +1,6 @@
 ---
 layout:             post
-title:              "Ода Лицею"
+title:              "&#8220;Ода Лицею&#8221; - фильм для школьной игры КВН"
 lang:               ru
 ref:                OdeToLiceum
 date:               2017-01-13 01:00:00

@@ -1,6 +1,6 @@
 ---
 layout:             post
-title:              "Ode to Liceum"
+title:              "&#8220;Ode to Liceum&#8221; - film for scool competition"
 lang:               en
 ref:                OdeToLiceum
 date:               2017-01-13 01:00:00

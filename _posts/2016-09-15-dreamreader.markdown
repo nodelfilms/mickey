@@ -1,6 +1,6 @@
 ---
 layout:            post
-title:             'DreamReader - A movie for IT-company anniversary celebration'
+title:             '&#8220;DreamReader&#8221; - A movie for IT-company anniversary celebration'
 lang:              en
 ref:               DreamReader
 date:              2016-09-15 01:00:00
