@@ -83,7 +83,11 @@ layout: default
             "></div>
             <div class="section-title u-tableCell u-verticalAlignMiddle">
               <div class="container">
-                <h4>Next story:</h4>
+                {% if page.lang == "ru" %}
+                  <h4>Читать далее:</h4>
+                {% else %}
+                  <h4>Next story:</h4>
+                {% endif %}
                 <a class="prev" href="{{post.url}}">
                   <h2>{{post.title}}</h2>
                 </a>

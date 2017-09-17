@@ -6,8 +6,8 @@ ref:                OdeToLiceum
 date:               2017-01-13 01:00:00
 last_modified_at:   2017-06-04 01:00:00
 excerpt:            "Video filmed for scool competition."
-categories:         Production
-tags:               Production
+categories:         Team building
+tags:               Team building
 image:
   feature:     liceum.jpg
   topPosition: -50px

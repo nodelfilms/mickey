@@ -6,8 +6,8 @@ ref:                OdeToLiceum
 date:               2017-01-13 01:00:00
 last_modified_at:   2017-06-04 01:00:00
 excerpt:            "Ролик для участия в школьной игре КВН"
-categories:         Production
-tags:               Production
+categories:         Тим-билдинг
+tags:               Тим-билдинг
 image:
   feature:     liceum.jpg
   topPosition: -50px
