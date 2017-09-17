@@ -5,9 +5,9 @@ lang:               en
 ref:                talant
 date:               2017-02-22 01:00:00
 last_modified_at:   2017-06-04 01:00:00
-excerpt:            "Finished post-production for The Talent. Ring in time for Cannes sumbission."
-categories:         Production
-tags:               Production
+excerpt:            "Finished post-production for The Talent. Right in time for Cannes sumbission."
+categories:         Festival
+tags:               Festival
 image:
   feature:     talant-picasso.jpg
   topPosition: 0px

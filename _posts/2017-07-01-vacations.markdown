@@ -1,13 +1,13 @@
 ---
 layout:            post
-title:             "We are in Cannes"
+title:             Vacations
 lang:              en
-lang:              talant_cannes
-date:              2016-05-22 01:00:00
-last_modified_at:  2016-06-04 01:00:00
+lang:              vacations
+date:              2017-05-22 01:00:00
+last_modified_at:  2017-06-04 01:00:00
 excerpt:           "The Talent short movie is oficially seleceted for Short Film Corner at Cannes Film Festival."
-categories:        Production
-tags:              Production
+categories:        Festival
+tags:              Festival
 image:
   feature:     in-cannes.jpg
   topPosition: 0px
