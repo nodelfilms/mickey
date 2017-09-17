@@ -1,11 +1,11 @@
 ---
 layout:            post
-title:             DreamReader
+title:             'DreamReader - A movie for IT-company anniversary celebration'
 lang:              en
 ref:               DreamReader
 date:              2016-09-15 01:00:00
 last_modified_at:  2017-06-08 01:00:00
-excerpt:           "A movie for corporate anniversary creative competition."
+excerpt:           "A movie for corporate anniversary creative competition"
 categories:        Team building
 tags:              Team building
 image:

@@ -1,6 +1,6 @@
 ---
 layout:             post
-title:              "The Talent"
+title:              '&#8220;The Talent&#8221; short movie'
 lang:               en
 ref:                talant
 date:               2017-02-22 01:00:00

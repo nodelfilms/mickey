@@ -1,11 +1,11 @@
 ---
 layout:            post
-title:             "Diversity in Cannes"
+title:             '&#8220;The Talent&#8221; short movie is oficially seleceted for Diversity in Cannes showcase'
 lang:              en
 ref:               diversity
 date:              2017-05-17 01:00:00
 last_modified_at:  2017-06-04 01:00:00
-excerpt:           "The Talent short movie is oficially seleceted for Diversity in Cannes showcase."
+excerpt:           "&#8220;The Talent&#8221; short movie is oficially seleceted for Diversity in Cannes showcase"
 categories:        Festival
 tags:              Festival
 image:
