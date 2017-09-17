@@ -16,24 +16,32 @@ bgGradientOpacity:  darker
 syntaxHighlighter:  no
 ---
 
-Wow! That was largest amount of actors we ever filmed before in one short film - 44! And this is not including the film crew. Hardest part was filming in the class. Unlike the dancing part, here everyone needs to sit still and do exactly what they been told to do. Well, for children that is quite a challenge. But we did it!
+Ух! Такое количество людей в одном фильме мы пока не задействовали - 44! И это не считая 
+съемочной группы. Самым сложным было снимать в классе. В отличие от танцевальной части,
+тут все должны были сидеть смирно и делать ровно то, что им говорят. А для детей, надо сказать,
+это целое испытание. Но мы сделали это!
+
+<blockquote class="u--startsWithDoubleQuote">&#8220;В какие-то моменты я чувствовала себя 
+террористом, захватившим в заложники целый класс...&#8221; <br/>- Елена Нодель</blockquote>
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}liceum-boy-girl.jpg);"></div>
 
-Film is based on the cover of famous &#8220;Drop it like it's hot&#8221; by Snoop Dog and Pharrell Williams,
-however we wrote completely different lyrics &#8220;Ode to Lyceum&#8221; with some references to Alexander Pushkin 
-&#8220;Ode to Lyceum&#8221; and humor and irony about daily life of Lyceum's schoolchildren.
+Фильм основан на перепевке знаменитой песни &#8220;Drop it like it's hot&#8221; Снуп Дога и Фарела Вильямса,
+хотя мы написали собственный текст &#8220;Ода Лицею&#8221; с отсылками к одноименному стихотворениюю Пушкина 
+и шутками на тему будней учеников Лицея. 
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}liceum-snoop.jpg);"></div>
 
-Song was performed in professional recording studio. Kudos to Stas Svintsov for great work with young singers, it helped them a lot to get into proper mood for gangsta rap song.
+Песню записывали в професииональной студии. Огромное спасибо Стасу Свинцову за отличную работу с юными певцами, 
+это им очень помогло поймать правильное настроение песни в стиле гангста-рэп.
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}liceum-studio.jpg);"></div>
 
-Most of the action were shoot at so-called &#8220;Cyclorama&#8221; - a white Chorma Key studio that is build the way there is no visible threshold between background walls and the floor.
+Большая чать съемок производилась на так называемой &#8220;циклораме&#8221; - комнате с белым покрытием,
+сделанным так, что нет видимой границы между стенами и полом.
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}liceum-cyclorama.jpg);"></div>
 
-Here's the result:
+И вот что у нас получилось:
 
 <iframe width="670" height="377" src="https://www.youtube.com/embed/Cea_QDqHjns" frameborder="0" allowfullscreen> </iframe>

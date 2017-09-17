@@ -16,7 +16,13 @@ bgGradientOpacity:  darker
 syntaxHighlighter:  no
 ---
 
-Wow! That was largest amount of actors we ever filmed before in one short film - 44! And this is not including the film crew. Hardest part was filming in the class. Unlike the dancing part, here everyone needs to sit still and do exactly what they been told to do. Well, for children that is quite a challenge. But we did it!
+Wow! That was largest amount of actors we ever filmed before in one short film - 44! 
+And this is not including the film crew. Hardest part was filming in the class. 
+Unlike the dancing part, here everyone needs to sit still and do exactly what they 
+been told to do. Well, for children that is quite a challenge. But we did it!
+
+<blockquote class="u--startsWithDoubleQuote">&#8220;At some moments I felt like a
+terrorist holding whole class as hostages...&#8221; <br/>- Helen Nodel</blockquote>
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}liceum-boy-girl.jpg);"></div>
 
