@@ -16,13 +16,12 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-#### Concept
+Один из самых захватывающих и успешных проектов нашей команды. Юристы ABBYY 
+не только профессионалы своего дела, но и очень творческие люди. На один 
+день они стали кинозвездами, чтобы сняться в музыкальном видео о своих мечтах. 
+Каждый из них внес свой вклад в написание сценария. Ролик получил заслуженное 
+признание: главный приз конкурса ABBYY Vision.
 
-TBD...
-
-<blockquote class="u--startsWithDoubleQuote">&#8220;That was the best teambuilding we ever had. We should do that again! &#8221; <br/>- Employee</blockquote>
-
-TBD...
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}dreamreader-alex.jpg);"></div>
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}dreamreader-progressbar.jpg);"></div>

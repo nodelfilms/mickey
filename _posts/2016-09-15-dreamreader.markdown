@@ -16,13 +16,10 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-#### Concept
-
-TBD...
-
-<blockquote class="u--startsWithDoubleQuote">&#8220;That was the best teambuilding we ever had. We should do that again! &#8221; <br/>- Employee</blockquote>
-
-TBD...
+It was one of the most exciting and successful projects of our production. 
+Super professional and super creative lawyers of ABBYY became real movie 
+stars and participated in music video about their dreams. Everyone of them 
+had own input in the script. And they won ABBYY Vision Award for their efforts.
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}dreamreader-alex.jpg);"></div>
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}dreamreader-progressbar.jpg);"></div>

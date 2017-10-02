@@ -79,7 +79,11 @@
     {% if page.title == "Home" %}
       {{ site.title }} &middot; {{ site.tagline }}
     {% else %}
-      {{ page.title }} &middot; {{ site.title }}
+      {% if page.lang == "ru" %}
+        {{ page.title }} &middot; {{ site.title.ru }}
+      {% else %}
+        {{ page.title }} &middot; {{ site.title.en }}
+      {% endif %}
     {% endif %}
   </title>
 
