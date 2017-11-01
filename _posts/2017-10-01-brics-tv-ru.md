@@ -17,7 +17,9 @@ syntaxHighlighter: no
 ---
 С гордостью сообщаем, что наш фильм &#8220;Талант&#8221; был официально отобран для участия в конкурсной программе
 кинофестиваля Echo Film Festivals BRICS (EFF BRICS) - 4 ноября на TV BRICS.
+
 Смотрите 4 ноября в 14.10 здесь: <a href="http://pro-tv.info/live/">http://pro-tv.info/live/</a>
-Сайт EFF BRICS: <a href="http://echofestbrics.com/">http://echofestbrics.com/</a>
+
+Сайт EFF BRICS: <a href="http://echofestbrics.com/">http://echofestbrics.com/</a><br/>
 
 <iframe width="670" height="377" src="https://www.youtube.com/embed/-vlHTujdgTM" frameborder="0" allowfullscreen> </iframe>
