@@ -22,5 +22,6 @@ syntaxHighlighter: no
 
 Сайт EFF BRICS: <a href="http://echofestbrics.com/">http://echofestbrics.com/</a>
 
-<br/><br/>
+<br/>
+
 <iframe width="670" height="377" src="https://www.youtube.com/embed/-vlHTujdgTM" frameborder="0" allowfullscreen> </iframe>
