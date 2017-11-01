@@ -1,7 +1,7 @@
 ---
 layout:            post
 title:             "Хочешь узнать мой секрет?"
-lang:              en
+lang:              ru
 ref:               ferrein
 date:              2017-10-27 01:00:00
 last_modified_at:  2017-10-27 01:00:00
