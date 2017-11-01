@@ -1,13 +1,13 @@
 ---
 layout:            post
-title:             "Наш фильм &#8220;The Talent&#8221; отобран конкурсную программу EEF BRICS"
+title:             "Наш фильм &#8220;Талант&#8221; отобран конкурсную программу EEF BRICS"
 lang:              ru
 ref:               talant_brics
-date:              2017-10-01 01:00:00
-last_modified_at:  2017-10-01 01:00:00
+date:              2017-11-01 01:00:00
+last_modified_at:  2017-11-01 01:00:00
 excerpt:           "Фильм &#8220;Талант&#8221; был официально отобран для участия в Echo Film Festivals BRICS (EFF BRICS)"
-categories:        Festival
-tags:              Festival
+categories:        Фестиваль
+tags:              Фестиваль
 image:
   feature:     tv-brics.jpg
   topPosition: 0px
