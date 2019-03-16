@@ -19,5 +19,5 @@ Official <a href="http://mailchi.mp/f9cab0590759/2017diversityincannesofficialse
 
 Official <a href="http://diversityincannes.com/">web site of the festival.</a>
 
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}diversity-photo-1.jpg);"></div>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}diversity-photo-a.jpg);"></div>
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}diversity-photo-2.jpg);"></div>
