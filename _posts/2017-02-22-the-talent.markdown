@@ -1,4 +1,4 @@
-  ---
+---
 layout:             post
 title:              '&#8220;The Talent&#8221; short movie'
 lang:               en
