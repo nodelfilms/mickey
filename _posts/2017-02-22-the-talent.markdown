@@ -1,4 +1,4 @@
----
+  ---
 layout:             post
 title:              '&#8220;The Talent&#8221; short movie'
 lang:               en
@@ -15,8 +15,10 @@ bgContrast: dark
 bgGradientOpacity:  darker
 syntaxHighlighter:  no
 ---
+<blockquote class="largeQuote">&#8216;It's a really charming film. A great idea… and with a very charming sentiment underlying it&#8217;.
+<br/> - Ed Sayers, Film Director, Sraight8 Founder, UK</blockquote>
 
-<blockquote class="largeQuote">&#8220;The Talent is a film which is full of compassion and tenderheartedness for me. I was very surprised by the way this film touched my heart by its simple execution and profoundly emotional story.&#8221;
+<blockquote class="largeQuote">&#8216;The Talent is a film which is full of compassion and tenderheartedness for me. I was very surprised by the way this film touched my heart by its simple execution and profoundly emotional story&#8217;.
 <br/> - Venika Mitra, Film Director, India</blockquote>
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}talant-screenshot.png);"></div>
@@ -34,7 +36,7 @@ syntaxHighlighter:  no
 
 <br/> - Members of screening committee of &#8220;Beyond Borders: Diversity in Cannes Short Film Showcase&#8221;</blockquote>
 
-Short film &#8220;The Talent&#8221; can be named a true &#8220;art-house&#8221; as  Elena Nodel was screenwriter, 
-director, producer of the film and even wrote a song by herself. 
+Short film &#8220;The Talent&#8221; can be named a true &#8220;art-house&#8221; as  Elena Nodel was screenwriter,
+director, producer of the film and even wrote a song by herself.
 Elena is proud that  people who watched her film feel that &#8220;The Talent&#8221;
 gives creative energy and inspiration.

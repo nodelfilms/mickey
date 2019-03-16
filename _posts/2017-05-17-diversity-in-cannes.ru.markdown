@@ -1,6 +1,6 @@
 ---
 layout:            post
-title:             "Наш фильм &#8220;Талант&#8221; попал в official selection фестиваля Diversity in Cannes"
+title:             "Наш фильм &#8220;Талант&#8221; в официальной программе Diversity in Cannes"
 lang:              ru
 ref:               diversity
 date:              2017-05-17 01:00:00
