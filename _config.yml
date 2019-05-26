@@ -18,8 +18,8 @@ title:
 
 tagline:             'tagline'
 description:         'description'
-url:                 http://www.nodelfilms.com
-rss:                 http://www.nodelfilms.com/feed.xml
+url:                 https://www.nodelfilms.com
+rss:                 https://www.nodelfilms.com/feed.xml
 baseurl:             '/'
 base-url:            '/'
 baseurl_posts_img:   '/assets/images/posts/'
